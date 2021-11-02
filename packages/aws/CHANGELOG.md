@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/aws
 
+## 0.5.2
+
+### Patch Changes
+
+- f7dbc44f: updates aws high fidelity approach to display account names
+
 ## 0.5.1
 
 ### Patch Changes
